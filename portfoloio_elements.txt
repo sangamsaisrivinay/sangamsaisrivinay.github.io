@@ -1,0 +1,22 @@
+elemnts of a portfolio website
+1.a custom logo and a tagline
+2.a web designer template
+3.relevant skills
+4.relevant education,course work and certificates
+5.experiences
+6.downloadable resume
+7.about/bio page
+8.a photo
+9.contact
+10.social media accounts
+11.services offered
+12.testimonals
+13.awards/other recognition
+14.blog
+15.relevant videos
+16.own projects
+17.volunteer work
+18.opensource contributions
+19.roles/responsibilities
+20.recommended cheatsheets/guides/tutorials
+21.goals
